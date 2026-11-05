@@ -1,4 +1,5 @@
 # Personal Book Manager
+![Static Badge](https://img.shields.io/badge/python-pink)
 
 A simple book manager built with Python.
 
@@ -48,9 +49,6 @@ python main.py
 
 ![Personal Task Manager Screenshot](images/screenshot.png)
 
-
-
-![Static Badge](https://img.shields.io/badge/python-pink)
 
 
 
