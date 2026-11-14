@@ -24,11 +24,11 @@ count = int(input("how many books do you want? "))
 for i in range(count):
     book = input("plaese enter a book`s name: ")
     priority = input("enter priority(low/medium/high): ").lower()
-    books = {
+    book = {
         "name" : book,
         "priority" : priority
     }
-    books.append(books)
+    books.append(book)
 
 
 
