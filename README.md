@@ -1,7 +1,7 @@
 # Personal Book Manager
 ![Static Badge](https://img.shields.io/badge/python-pink)
 
-A simple book manager built with Python.
+A simple book manager built with Python
 
 ## Features
 - Add multiple tasks
