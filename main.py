@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 name = input("please enter your name: ")
-print("welcome", name)
+print("hello welcome", name)
 
 admin_mode = input("do you want to open admin mode? yes/no: ")
 
@@ -30,7 +30,6 @@ for i in range(count):
         "priority" : priority
     }
     books.append(book)
-
 
 
 show_books(books)
