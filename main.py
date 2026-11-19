@@ -8,7 +8,7 @@ name = input("please enter your name: ")
 print("welcome to our program", name)
 
 
-admin_mode = input("do you want to open admin mode? yes/no: ")
+admin_mode = input("do you know the admin mode code for our programe? yes/no: ")
 
 
 if admin_mode.lower() == "yes":
